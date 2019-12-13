@@ -1,0 +1,35 @@
+//markdown workouts
+
+to insert some text into notebook
+change the mode as markdown
+# text 
+## space text
+### like header tags in HTML
+//to insert an image 
+![](copy and paste of  image address here)
+[title](linkaddress)
+to get top place
+[title](#linkaddress)
+insert link using anchor tag
+<a href="link">click</a>
+tell me
+html order/unorder lists
+<ul>
+<li>venu</li>
+<li>kiran</li>
+<li>madhu</li>
+</ul>
+
+<ol>
+<li>venu</li>
+<li>kiran</li>
+<li>madhu</li>
+</ol>
+
+to get italic
+space *venu*
+to get bold
+space **venu**
+to get bold and italic
+* ***venu***
+<font color="red">venu</font>
